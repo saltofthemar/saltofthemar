@@ -4,7 +4,7 @@ My name is Marlowe (aka saltofthemar), and ✨I have been captured by the joy of
 
 Trained in graphic design for print and web, I started out working on magazines and newspapers. I quickly become a web administrator, developer, WordPress/Drupal/Moodle wizard, and eventually a Linux systems administrator. I have helped dozens of non-profits over the years, ensuring they have a meaningful and effective web presence. A big part of what I do is planning and follow up: documenting projects, and offering training and support. Now, I am focused on rescuing older websites that are lost in the fray of modern approaches and caring for abandoned WordPress installs. 
 
-My passion for ⚡coding, linux, music and amateur radio⚡ have been the keys to healing an injured brain injury after I was randomly assaulted during Covid. I was already focused on building accessible solutions, but with some firsthand experience using the web without all the bells and whistles I am even more engaged on implementing WACC solutions that work. Progressive enhancement is the name of the game, along with DRY, maintainable, self-documenting code.
+My passion for ⚡coding, linux, music and amateur radio⚡ have been the keys to healing an injured brain injury after I was randomly assaulted during Covid. I was already focused on building accessible solutions, but with some firsthand experience using the web without all the bells and whistles I am even more engaged on implementing WCAG solutions that work. Progressive enhancement is the name of the game, along with DRY, maintainable, self-documenting code.
 
 ### 🔭 I’m currently working on ...
 
