@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-My name is Marlowe (aka saltofthemar), and ✨I have been captured by the joy of coding✨ since learning Watcom Basic in Grade 7 (in the 90's!). I live in a small rural town on the BC coast, and volunteer my skills to local community organizations and people in need. I use Linux for everything these days, including my main development and design environment, and am constantly amazed at the power of open-source initiatives. Ask me about my local development stack!
+My name is Marlowe (aka saltofthemar), and ✨I have been captured by the joy of coding✨ since learning Watcom Basic in Grade 7 (in the 90's!). Trained in graphic design for print and web, I started out working on magazines and newspapers. I quickly become a web administrator, developer, WordPress/Drupal/Moodle wizard, and eventually a Linux systems administrator. I have helped dozens of community organziations over the years, ensuring they have a meaningful and effective web presence. 
 
-Trained in graphic design for print and web, I started out working on magazines and newspapers. I quickly become a web administrator, developer, WordPress/Drupal/Moodle wizard, and eventually a Linux systems administrator. I have helped dozens of non-profits over the years, ensuring they have a meaningful and effective web presence. A big part of what I do is planning and follow up: documenting projects, and offering training and support. Now, I am focused on rescuing older websites that are lost in the fray of modern approaches and caring for abandoned WordPress installs. 
-
-My passion for ⚡coding, linux, music and amateur radio⚡ have been the keys to healing from a brain injury. I was already focused on building accessible solutions, but with some firsthand experience using the web without all the bells and whistles I am even more engaged on implementing WCAG solutions that work. Progressive enhancement is the name of the game, along with DRY, maintainable, self-documenting code.
+I find these days I use Linux for everything, even as my main development and design environment, and am constantly amazed at the power of open-source. Ask me about my local development stack! My passion for ⚡computer science, music and amateur radio⚡ have been the keys to healing from a brain injury. I live with the effects of an aquired brain injuty, and have firsthand experience using the web without all the bells and whistles. Progressive enhancement is the name of the game, along with DRY, maintainable, self-documenting code!
 
 ### 🔭 I’m currently working on ...
 
@@ -17,8 +15,6 @@ My passion for ⚡coding, linux, music and amateur radio⚡ have been the keys t
 ... I am studying for my Linux System Administrator certification through the Linux Foundation.
 
 ... I am completing my second course on Python, Django and Javascipt at Harvard Extension School, leading to a professional certificate.
-
-... I am getting ready to start my studies in Technical Writing, a lifelong passion of mine!
 
 ### 📫 How to reach me: ...
 
