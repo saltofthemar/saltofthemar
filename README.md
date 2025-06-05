@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-My name is Marlowe (aka saltofthemar), and ✨I have been captured by the joy of coding✨ since learning Watcom Basic in Grade 7 (in the 90's!). Trained in graphic design for print and web, I started out working on magazines and newspapers. I quickly become a web administrator, developer, WordPress/Drupal/Moodle wizard, and eventually a Linux systems administrator. I have helped dozens of community organziations over the years, ensuring they have a meaningful and effective web presence. 
+My name is Marlowe (aka saltofthemar), and ✨I have been captured by the joy of coding✨ since learning Watcom Basic in Grade 7. Professionally trained in graphic design for print and web, I started out working on magazines and newspapers, soon becoming a web designer, WordPress/Drupal/Moodle wizard, developer, and eventually a Linux systems administrator. 
 
-I find these days I use Linux for everything, even as my main development and design environment, and am constantly amazed at the power of open-source. Ask me about my local development stack! My passion for ⚡computer science, music and amateur radio⚡ have been the keys to healing from a brain injury. I live with the effects of an aquired brain injuty, and have firsthand experience using the web without all the bells and whistles. Progressive enhancement is the name of the game, along with DRY, maintainable, self-documenting code!
+I have helped dozens of community organziations over the years, ensuring they have a meaningful and effective web presence. I live with the effects of an aquired brain injury, and have firsthand experience using the web without all the bells and whistles. Progressive enhancement is the name of the game, along with DRY, maintainable, self-documenting code!
+
+These days, I find I am able to use Linux as my main development and design environment, and am passionate about open-source projects. If you are a developer who wants to make the switch to a better desktop environment, please feel free to ask me about my local development stack! To give you a taste: Gimp and Inkscape are the obvious 
 
 ### 🔭 I’m currently working on ...
 
