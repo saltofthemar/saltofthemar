@@ -4,7 +4,7 @@ My name is Marlowe (aka saltofthemar), and ✨I have been captured by the joy of
 
 I have helped dozens of community organziations over the years, ensuring they have a meaningful and effective web presence. I live with the effects of an aquired brain injury, and have firsthand experience using the web without all the bells and whistles. Progressive enhancement is the name of the game, along with DRY, maintainable, self-documenting code!
 
-These days, I find I am able to use Linux as my main development and design environment, and am passionate about open-source projects. If you are a developer who wants to make the switch to a better desktop environment, please feel free to ask me about my local development stack! To give you a taste: Gimp and Inkscape are the obvious 
+These days, I find I am able to use Linux as my main development and design environment, and am passionate about open-source projects. If you are a developer who wants to make the switch to a better desktop environment, please feel free to ask me about my local development stack!
 
 ### 🔭 I’m currently working on ...
 
