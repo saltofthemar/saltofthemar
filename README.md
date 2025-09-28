@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Marlowe, and I have been captured by the joy and challenge of coding since learning Watcom Basic as a kid in the 90's. Professionally trained in graphic design for print and web, I'm well versed both front and backend web development (and Linux server administration too!). I love to use my wide range of technical skills to assist local community and non-profit organziations, supporting small projects so they can still have great websites. I also dabble in synthesis, electronic music and MIDI. 
+I'm Marlowe, and I have been captured by the joy and challenge of coding since learning Watcom Basic as a kid in the 90's. Professionally trained in graphic design for print and web, I'm well versed both front and backend web development (and Linux server administration too!). I love to use my wide range of technical skills to assist local community and non-profit organziations, supporting small projects so they can still have great websites. I also dabble in amateur radio, digital signal processing, synthesis, electronic music and MIDI. 
 
 This github is a place where I can share some of the creative projects I work on -- in between all the real life stuff that needs doing. Hope you enjoy!
 
